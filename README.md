@@ -34,7 +34,7 @@ A 'dynamic and interactive Book Review Application' that allows users to add, vi
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/book-review-app.git
+   git clone https://github.com/Mk-carnage/book-review-app.git
    ```
 2. Navigate to the Project Directory:
    ```bash
@@ -47,7 +47,7 @@ A 'dynamic and interactive Book Review Application' that allows users to add, vi
 
 💻 Preview
 
-### App Interface
+App Interface
 - A floating "+" button to add new reviews.
 - Book cards displaying title, author, and reviews.
 - Responsive design for seamless experience across devices.
